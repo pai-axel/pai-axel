@@ -45,8 +45,6 @@ I am a final-year Electrical Engineering student at Universitas Udayana, special
 
 *   **Miawku - IoT Smart Cat Feeder** | *Capstone Project*
     Designed the physical architecture and logic integration using ESP32 microcontrollers and load cell sensors. Built the system logic connecting the hardware layer to a real-time Firebase database for remote monitoring.
-*   **Electromagnetic Radiation Detector** | *1st Place PKM-KC 2024*
-    Assembled a functional prototype utilizing Arduino Uno, a signal receiver, and an LCD interface to visualize radiation direction, assisting in disaster victim search operations.
 *   **POS System for UMKM**
     Engineered the operational workflow and database structure (Firebase & SQL queries) to digitalize daily transactions and improve business operational stability.
 
