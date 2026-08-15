@@ -50,12 +50,4 @@ I am a final-year Electrical Engineering student at Universitas Udayana, special
 
 ---
 
-### 🏆 Achievements & Community
-
-*   🥇 **1st Place PKM-KC 2024** – Universitas Udayana PKM Center.
-*   🌟 **Stage 2 Qualifier** – Samsung Innovation Campus (SIC) Batch 6 & 7.
-*   🌐 **Active Member & Attendee** – DevFest & Technical Meetups by Google Developer Groups (GDG) Bali & GDSC.
-*   🔌 **Student Member** – IEEE Student Branch & Society of Renewable Energy (SRE).
-
----
 <p align="center"><i>"Turning analytical concepts into functional hardware solutions."</i></p>
